@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_MOD_BZ_TURN_GUARD_NAME">
+            <Text>Turn Guard</Text>
+        </Row>
+        <Row Tag="LOC_MOD_BZ_TURN_GUARD_DESCRIPTION">
+            <Text>stops the Next Action hotkey from triggering Next Turn</Text>
+        </Row>
+    </EnglishText>
+</Database>
