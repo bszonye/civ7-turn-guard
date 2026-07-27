@@ -7,6 +7,8 @@
         <Authors>beezany</Authors>
         <Package>Mod</Package>
         <AffectsSavedGames>0</AffectsSavedGames>
+        <bzIcon>blp:ntf_next_turn</bzIcon>
+        <bzIconGlow>#e5d2ac</bzIconGlow>
     </Properties>
     <Dependencies>
         <Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME" />
